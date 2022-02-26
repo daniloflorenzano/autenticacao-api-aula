@@ -6,6 +6,6 @@ Blog simples que requer autenticação via JWT para realizar as seguintes açõe
 - Exclusão de usuário
 
 Também há funcionalidades de: 
-- Login
+- Criação de usuário e login
 - Expiração do Token por tempo determinado
 - Logout adicionando token em uma blacklist
